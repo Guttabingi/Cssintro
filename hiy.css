@@ -1,0 +1,30 @@
+footer
+{
+    color: darkblue
+}
+h1{
+    text-align: center;
+    color:black;
+    
+}
+div{
+    background-image:url(bbks.jpg) ;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p{
+    color:black;
+    opacity: 40%;}
+h3{
+    text-align: center;
+    color:darkred;
+}
+img {
+    border-radius: 50%;
+  }
+
+
+
+
